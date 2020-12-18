@@ -31,7 +31,7 @@
     "cookie-parser": "^1.4.3",
     "cookie-session": "^2.0.0-beta.3",
     "date-fns": "^1.29.0",
-    "dompurify": "^1.0.2",
+    "dompurify": "^2.0.17",
     "dotenv": "^4.0.0",
     "express": "^4.15.4",
     "express-handlebars": "^3.0.0",
