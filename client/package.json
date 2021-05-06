@@ -46,7 +46,7 @@
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "query-string": "^5.0.0",
-    "sanitize-html": "^1.15.0",
+    "sanitize-html": "^2.3.2",
     "sitemap": "^1.13.0"
   },
   "devDependencies": {
