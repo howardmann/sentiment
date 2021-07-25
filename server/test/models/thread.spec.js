@@ -3,6 +3,12 @@ let chai = require('chai');
 let expect = chai.expect;
 let chaiHttp = require('chai-http');
 chai.use(chaiHttp);
+Company.Online
+Company.Online.Word
+Company.Online.Luxury
+FB.Company
+Company_FB
+Company.Luxury
 
 // Helpers
 let format = require('date-fns/format')
