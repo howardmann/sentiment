@@ -55,7 +55,7 @@
     "babel-preset-es2015": "^6.24.1",
     "chai": "^4.1.1",
     "chai-html": "^1.1.5",
-    "chai-http": "^3.0.0",
+    "chai-http": "^4.3.0",
     "cheerio": "^1.0.0-rc.2",
     "css-loader": "^0.28.7",
     "extract-text-webpack-plugin": "^3.0.2",
